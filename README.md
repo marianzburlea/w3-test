@@ -1,4 +1,7 @@
 # Pug starter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/marianzburlea/w3-test.svg)](https://greenkeeper.io/)
+
 ## YouTube video tutorials
 
 To help you out even more I've put together some YouTube tutorials:
